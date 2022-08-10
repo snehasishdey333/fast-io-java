@@ -61,6 +61,7 @@ public class Main {
 		FastReader s = new FastReader();
 		int n = s.nextInt();
 		int k = s.nextInt();
+		  
 		int count = 0;
 		while (n-- > 0) {
 			int x = s.nextInt();
